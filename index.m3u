@@ -198,6 +198,6 @@ https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/in
 #EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" group-title="Turkiye" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-name="AdultIPTVnetAnal" tvg-language="English" group-title="Jigga Jigga" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-name="AdultIPTV.net Anal" tvg-language="English" group-title="Jigga Jigga" tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Anal (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://cdn.adultiptv.net/anal.m3u8
