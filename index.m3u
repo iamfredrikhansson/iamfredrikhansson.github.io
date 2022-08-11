@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+
+#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
