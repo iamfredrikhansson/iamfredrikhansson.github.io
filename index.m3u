@@ -1,8 +1,11 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Kanal 7 Avrupa" tvg-name="Kanal 7 Avrupa" tvg-logo="https://i.ibb.co/1rhzvp0/kanal7avrupa.png" group-title="Turkiye",Kanal 7 Avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
-http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://antalya.tvizlehd.com/live/atvavrupa.m3u8
