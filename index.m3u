@@ -202,7 +202,15 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 
 #EXTINF:============Serbia=========
 
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga Plus" tvg-language="Serbian" tvg-language="Serbian" group-title="Serbia" tvg-logo="https://i.imgur.com/0RcNFXt.jpg",Duga Plus Music Srbija Tv
+#EXTINF:-1 tvg-id="RTV 1" tvg-name="RTV1" tvg-language="Serbian" group-title="Serbia" tvg-logo="",RTV 1 (576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+mmsh://212.200.255.151/rtv1?checkedby:iptvcat.net
+
+#EXTINF:-1 #EXTINF:-1 tvg-id="RTV 2" tvg-name="RTV2" tvg-language="Serbian" group-title="Serbia" tvg-logo="",RTV 2 (576p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+mmsh://212.200.255.151/rtv2?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga Plus" tvg-language="Serbian" group-title="Serbia" tvg-logo="https://i.imgur.com/0RcNFXt.jpg",Duga Plus Music Srbija Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8
 
