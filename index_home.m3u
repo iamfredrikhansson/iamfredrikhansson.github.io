@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:============Sweden=========
+
+#EXTINF:-1 tvg-id="SVT1.se" tvg-name="SVT1" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://i.imgur.com/geYfi6R.png",SVT1 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://svt1-c.akamaized.net/se/svt1/master.m3u8
+
+#EXTINF:-1 tvg-id="SVT2.se" tvg-name="SVT2" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://i.imgur.com/fbe746X.png",SVT2 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://svt2-c.akamaized.net/se/svt2/master.m3u8
+
+#EXTINF:-1 tvg-id="SVT24.se" tvg-name="SVT24" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://i.imgur.com/XvdGJCc.png", SVT24 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://svtb-c.akamaized.net/se/svtb/master.m3u8
+
+#EXTINF:-1 tvg-id="Kunskapskanalen" tvg-name="Kunskapskanalen" tvg-language="Swedish" group-title="Sweden" tvg-logo="",SVT Kunskapskanalen [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://svtk-c.akamaized.net/se/svtk/master.m3u8
+
+#EXTINF:-1 tvg-id="TV4.se" tvg-name="TV4" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/512px-TV4sweden_logo.svg.png",TV4 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+
+#EXTINF:-1 tvg-id="TV4 Nyheter" tvg-name="TV4 Nyheter" tvg-language="Swedish" group-title="Sweden" tvg-logo="",TV4Nyheterna (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+
+#EXTINF:-1 tvg-id="DiTV.se" tvg-name="DiTV" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://i.imgur.com/zApTDWn.png",Di TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpressenTV.se" tvg-name="ExpressenTV" tvg-language="Swedish" group-title="Sweden" tvg-logo="https://i.imgur.com/Kt88QxS.png",Expressen TV 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx1_720p/playlist.m3u8
